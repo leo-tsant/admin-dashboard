@@ -1,7 +1,7 @@
 # Admin-Dashboard
 
 Live Demo:
-https://leo-tsant.github.io/Admin-Dashboard/
+https://leo-tsant.github.io/admin-dashboard/
 
 ![Project Screenshot](./Images/admin-dashboard.png)
 
